@@ -1,9 +1,6 @@
 I'm a software developer with a passion for all things Android :robot:
 
-## Check out Swivi, the AI powered fitness app i'm currently working on
-
-- **Our Website** http://swivi.co and https://beige.land
-- **Join our community** https://discord.gg/8aJujRGpUc
+## Check out [Swivi](https://www.swivi.app), the AI powered fitness app i'm currently working on
 
 <a href='https://play.google.com/store/apps/details?id=com.fitness.swivi.android&hl=en_US&gl=US&pli=1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px" height="auto"/>
