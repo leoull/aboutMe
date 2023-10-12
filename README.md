@@ -1,4 +1,4 @@
-I'm a software developer with a passion for Mobile app development
+I'm a software developer with a passion for Mobile apps
 
 ## Check out [Swivi](https://www.swivi.app), the AI-powered fitness app my team and I developed
 
